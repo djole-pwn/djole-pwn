@@ -1,6 +1,6 @@
 # Hello, I'm Djole! 👋
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/15658d2f6edcc3e391b19eeb9a37d7ff?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/992125489852469278)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/992125489852469278?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/992125489852469278)
 
 ## About Me
 
